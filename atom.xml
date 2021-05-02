@@ -3,11 +3,11 @@
   <title>Zaitongxue</title>
   
   <subtitle>一名CTFer及渗透业余人员的自我修养</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zaitongxue.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zaitongxue.github.io/"/>
   <updated>2021-05-02T05:03:14.651Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zaitongxue.github.io/</id>
   
   <author>
     <name>灾同学</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>声明</title>
-    <link href="http://example.com/2021/05/02/%E5%A3%B0%E6%98%8E/"/>
-    <id>http://example.com/2021/05/02/%E5%A3%B0%E6%98%8E/</id>
+    <link href="https://zaitongxue.github.io/2021/05/02/%E5%A3%B0%E6%98%8E/"/>
+    <id>https://zaitongxue.github.io/2021/05/02/%E5%A3%B0%E6%98%8E/</id>
     <published>2021-05-02T04:07:30.000Z</published>
     <updated>2021-05-02T05:03:14.651Z</updated>
     
@@ -34,10 +34,10 @@
     
     
     
-    <category term="声明" scheme="http://example.com/categories/%E5%A3%B0%E6%98%8E/"/>
+    <category term="声明" scheme="https://zaitongxue.github.io/categories/%E5%A3%B0%E6%98%8E/"/>
     
     
-    <category term="声明" scheme="http://example.com/tags/%E5%A3%B0%E6%98%8E/"/>
+    <category term="声明" scheme="https://zaitongxue.github.io/tags/%E5%A3%B0%E6%98%8E/"/>
     
   </entry>
   
