@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-02T04:11:19.682Z</updated>
+  <updated>2021-05-02T04:31:41.470Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,23 +21,23 @@
     <link href="http://example.com/2021/05/02/%E5%A6%82%E4%BD%95%E7%94%A8Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/2021/05/02/%E5%A6%82%E4%BD%95%E7%94%A8Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2021-05-02T04:07:30.000Z</published>
-    <updated>2021-05-02T04:11:19.682Z</updated>
+    <updated>2021-05-02T04:31:41.470Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="标题1"><a href="#标题1" class="headerlink" title="标题1"></a>标题1</h2><p>正文1</p><h2 id="标题2"><a href="#标题2" class="headerlink" title="标题2"></a>标题2</h2><p>正文2</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><p>本博客仅为分享交流技术所用，如有将本博客分享的技术用于不良用途者，一切后果自负！</p><h2 id="博主要说的"><a href="#博主要说的" class="headerlink" title="博主要说的"></a>博主要说的</h2><p>本博客现阶段主要分享web安全相关技术和CTF解题赛赛题解题过程与思路方法（包括但不限于Web，Misc，Crypto,PWN，APK），有时间的话也会分享一些红队的相关知识以及思路实战等。鄙人实在是才疏学浅，只会这么多了(<em>^▽^</em>)。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;标题1&quot;&gt;&lt;a href=&quot;#标题1&quot; class=&quot;headerlink&quot; title=&quot;标题1&quot;&gt;&lt;/a&gt;标题1&lt;/h2&gt;&lt;p&gt;正文1&lt;/p&gt;
-&lt;h2 id=&quot;标题2&quot;&gt;&lt;a href=&quot;#标题2&quot; class=&quot;headerlink&quot; title=&quot;标题2&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;声明&quot;&gt;&lt;a href=&quot;#声明&quot; class=&quot;headerlink&quot; title=&quot;声明&quot;&gt;&lt;/a&gt;声明&lt;/h2&gt;&lt;p&gt;本博客仅为分享交流技术所用，如有将本博客分享的技术用于不良用途者，一切后果自负！&lt;/p&gt;
+&lt;h2 id=&quot;博主要说的&quot;&gt;&lt;a href=&quot;#</summary>
       
     
     
     
-    <category term="Github" scheme="http://example.com/categories/Github/"/>
+    <category term="声明" scheme="http://example.com/categories/%E5%A3%B0%E6%98%8E/"/>
     
     
-    <category term="Github" scheme="http://example.com/tags/Github/"/>
+    <category term="声明" scheme="http://example.com/tags/%E5%A3%B0%E6%98%8E/"/>
     
   </entry>
   
